@@ -178,7 +178,7 @@ public class ProgressBarHandler : MonoBehaviour
         {
             new RoleSaveData
             {
-                role = "Support",
+                role = headerText.text,
                 quests = questProgressCurrent
             }
         };
