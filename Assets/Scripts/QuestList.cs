@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.EventSystems;
-using TMPro;
-using Newtonsoft.Json;
+﻿using System.Collections.Generic;
 using UnityEngine.Scripting;
 
 [Preserve]

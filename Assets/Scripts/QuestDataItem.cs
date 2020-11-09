@@ -145,7 +145,6 @@ public class QuestDataItemConverter : JsonConverter<QuestDataItem>
                 string _string = (string)reader.Value;
                 reader.Read();
                 reader.Read();
-                //while (reader.Read()) { }
                 return new QuestDataItem(name, features, points, _string);
             }
             else if (features.HasFlag(QuestDataItem.QuestFeatures.Description) && features.HasFlag(QuestDataItem.QuestFeatures.Deadline))
@@ -156,7 +155,6 @@ public class QuestDataItemConverter : JsonConverter<QuestDataItem>
                 string deadline = (string)reader.Value;
                 reader.Read();
                 reader.Read();
-                //while (reader.Read()) { }
                 return new QuestDataItem(name, features, points, description, deadline);
             }
             else return new QuestDataItem(name, features, points);
@@ -168,7 +166,6 @@ public class QuestDataItemConverter : JsonConverter<QuestDataItem>
             string _string = (string)reader.Value;
             reader.Read();
             reader.Read();
-            //while (reader.Read()) { }
             return new QuestDataItem(name, features, _string);
         }
         else if (features.HasFlag(QuestDataItem.QuestFeatures.Description) && features.HasFlag(QuestDataItem.QuestFeatures.Deadline))
@@ -181,12 +178,10 @@ public class QuestDataItemConverter : JsonConverter<QuestDataItem>
             string deadline = (string)reader.Value;
             reader.Read();
             reader.Read();
-            //while (reader.Read()) { }
             return new QuestDataItem(name, features, description, deadline);
         }
         reader.Read();
         reader.Read();
-        //while (reader.Read()) { }
         return new QuestDataItem(name, QuestDataItem.QuestFeatures.None);
     }
 }

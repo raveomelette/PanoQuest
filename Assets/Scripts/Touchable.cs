@@ -1,6 +1,5 @@
 ﻿namespace UnityEngine.UI
 {
-
     public class Touchable : Graphic
     {
 
