@@ -1,0 +1,87 @@
+{
+  "listName": "adaptation",
+  "hasCustomMentorList": false,
+  "milestones": [],
+  "quests": {
+    "0": {
+      "name": "Оформиться на работу :)",
+      "type": 6,
+      "features": {
+        "description": "•  Подписать NDA;\r\n•  Оформиться в кадрах/подписать документы, если ты работаешь дистанционно;\r\n\r\nПоможет HR/Маша Плаксина(<color=#81d4fa><link=\"https://t.me/plakmaria\"><u>@plakmaria</u></link></color>).",
+        "deadline": "первый день"
+      }
+    },
+    "1": {
+      "name": "Экскурсия по офису",
+      "type": 6,
+      "features": {
+        "description": "•  Где какая команда располагается;\r\n•  Переговорки;\r\n•  Кухня.",
+        "deadline": "первый день"
+      }
+    },
+    "2": {
+      "name": "Заполнить анкету",
+      "type": 6,
+      "features": {
+        "description": "Расскажи о себе в анкете, это поможет твоим коллегам узнать тебя лучше. Анкету выдаст тебе HR.",
+        "deadline": "первый день"
+      }
+    },
+    "3": {
+      "name": "Пройтись по Welcome Letter от сис.админа",
+      "type": 6,
+      "features": {
+        "description": "Welcome Letter ты можешь найти на своей рабочей почте.",
+        "deadline": "первый день"
+      }
+    },
+    "4": {
+      "name": "Познакомиться со внутренними порталами и базовыми инструментами",
+      "type": 6,
+      "features": {
+        "description": "•  <color=#81d4fa><link=\"https://panoramik.slite.com/app/channels/K8w~37L2Of/notes/xU1D5oqTYR\"><u>Slite</u></link></color>;\r\n•  <color=#81d4fa><link=\"https://youtrack.panoramik.ru/\"><u>YouTrack</u></link></color>;\r\n•  Почта и календарь;\r\n•  Telegram (поставить на аватарку реальное фото и указать в профиле ник, если телеграм по номеру телефона).",
+        "deadline": "первый день"
+      }
+    },
+    "5": {
+      "name": "Пройтись по Welcome Book и ключевым разделам в Slite",
+      "type": 6,
+      "features": {
+        "description": "Можно найти информацию в <color=#81d4fa><link=\"https://panoramik.slite.com/app/channels/K8w~37L2Of/notes/xU1D5oqTYR\"><u>Slite</u></link></color>, так же с этим могут помочь HR.",
+        "deadline": "первый день"
+      }
+    },
+    "6": {
+      "name": "Подробно поговорить о расписании и правилах его заполнения",
+      "type": 6,
+      "features": {
+        "description": "Актуальный документ с расписанием всегда можно найти в закреплённом сообщении в Telegram-канале Еда и Тусичи.",
+        "deadline": "первый день"
+      }
+    },
+    "7": {
+      "name": "Познакомиться со структурой компании",
+      "type": 6,
+      "features": {
+        "description": "Можно найти информацию в <color=#81d4fa><link=\"https://panoramik.slite.com/app/channels/K8w~37L2Of/notes/xU1D5oqTYR\"><u>Slite</u></link></color>, так же с этим могут помочь HR.",
+        "deadline": "первый день"
+      }
+    },
+    "8": {
+      "name": "Познакомиться с ценностями компании, посмотреть видео и почитать Panobible",
+      "type": 6,
+      "features": {
+        "description": "Можно найти информацию в <color=#81d4fa><link=\"https://panoramik.slite.com/app/channels/K8w~37L2Of/notes/ZNZn6ei4GH\"><u>Slite</u></link></color>, так же с этим могут помочь HR.",
+        "deadline": "первая неделя"
+      }
+    },
+    "9": {
+      "name": "Ознакомиться с играми конкурентов",
+      "type": 6,
+      "features": {
+        "description": "Вот список игр, в которые тебе необходимо поиграть, чтобы хорошо ориентироваться в сфере:\r\n\r\nДолгие(2-3ч):<pos=50%>Быстрые(1-2ч):\r\n•  AFK Arena;<pos=50%>•  Clash Royale;\r\n•  Mobile Legends: Adventure;<pos=50%>•  Hustle Castle;\r\n•  Idle Heroes;<pos=50%>•  Age of Magic;\r\n•  Idle War;<pos=50%>•  Legend of Solgard.\r\n•  Epic Seven;\r\n•  TapTapHeroes;\r\n•  Raid: Shadow Legends;\r\n•  Empires and Puzzles;\r\n•  The Seven Deadly Sins.",
+        "deadline": "в течение ИС"
+      }
+    }
+  }
+}
